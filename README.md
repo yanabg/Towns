@@ -7,11 +7,11 @@ Code for the Git and GitHub Exercise
 - Assigned to: learnazureuser
 - Responsibilities: Implement
 
-### Shuffler
+### StylerS
 - Assigned to: learndevopsuser
 - responsibilities: Implement
 
-### Styler:
+### Shuffler:
 - Assigned to: learngithubuser
 - Responsibilities: Add CSS styling and improve the HTML UI
 
