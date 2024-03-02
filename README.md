@@ -8,7 +8,7 @@ Code for the Git and GitHub Exercise
 - Responsibilities: Implement
 
 ### Shuffler
-- Assigned to: learnazuredevopsuser
+- Assigned to: learndevopsuser
 - responsibilities: Implement
 
 ### Styler:
