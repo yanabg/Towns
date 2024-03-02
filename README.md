@@ -3,14 +3,14 @@ Code for the Git and GitHub Exercise
 
 ## Team Roles
 
-### Editor
+### Editor:
 - Assigned to: learnazureuser
 - Responsibilities: Implement
 
-### Shuffler
+### Styler:
 - Assigned to: learndevopsuser
 - responsibilities: Implement
 
-### Styler:
+### Shuffler:
 - Assigned to: learngithubuser
 - Responsibilities: Add CSS styling and improve the HTML UI
